@@ -1,0 +1,16 @@
+/* 
+    Document   : style
+    Created on : Sep 10, 2018, 7:25:13 PM
+    Author     : dilip
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+	margin: 0;
+	padding: 0;
+background: url(/Downloads/ev1.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+}
