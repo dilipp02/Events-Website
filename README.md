@@ -16,3 +16,10 @@ Organizers are allowed to create an event as well as manage the same.
   4. Manage the participants of the event
   
   ![ER diagram](https://github.com/dilipp02/Events-Website/blob/master/images/erDiagram.png)
+
+### Tech-Stack -
+HTML, CSS, Bootstrap3, JavaScript, JSP, SQL, MVC architecture, Apache Server
+
+Screenshots of the website can be seen in the images folder above
+
+
